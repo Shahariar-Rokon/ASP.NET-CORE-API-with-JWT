@@ -1,0 +1,6 @@
+@CAPIV3_HostAddress = http://localhost:5185
+
+GET {{CAPIV3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

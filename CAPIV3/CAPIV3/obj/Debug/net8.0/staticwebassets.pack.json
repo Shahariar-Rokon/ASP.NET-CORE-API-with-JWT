@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\DotNetAllModule\\Module-11-Asp.NetCoreWebApi\\CAPIV3\\CAPIV3\\wwwroot\\Upload\\01.jpg",
+      "PackagePath": "staticwebassets\\Upload\\01.jpg"
+    },
+    {
+      "Id": "F:\\DotNetAllModule\\Module-11-Asp.NetCoreWebApi\\CAPIV3\\CAPIV3\\wwwroot\\Upload\\02.jpg",
+      "PackagePath": "staticwebassets\\Upload\\02.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CAPIV3.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CAPIV3.props",
+      "PackagePath": "build\\CAPIV3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CAPIV3.props",
+      "PackagePath": "buildMultiTargeting\\CAPIV3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CAPIV3.props",
+      "PackagePath": "buildTransitive\\CAPIV3.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

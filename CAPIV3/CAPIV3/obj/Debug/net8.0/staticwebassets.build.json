@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "kAOY7ltwCAzf8hTnlSds+DdA3+ZYcTSPVD8aNiH4lws=",
+  "Source": "CAPIV3",
+  "BasePath": "_content/CAPIV3",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CAPIV3\\wwwroot",
+      "Source": "CAPIV3",
+      "ContentRoot": "F:\\DotNetAllModule\\Module-11-Asp.NetCoreWebApi\\CAPIV3\\CAPIV3\\wwwroot\\",
+      "BasePath": "_content/CAPIV3",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "F:\\DotNetAllModule\\Module-11-Asp.NetCoreWebApi\\CAPIV3\\CAPIV3\\wwwroot\\Upload\\01.jpg",
+      "SourceId": "CAPIV3",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\DotNetAllModule\\Module-11-Asp.NetCoreWebApi\\CAPIV3\\CAPIV3\\wwwroot\\",
+      "BasePath": "_content/CAPIV3",
+      "RelativePath": "Upload/01.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\01.jpg"
+    },
+    {
+      "Identity": "F:\\DotNetAllModule\\Module-11-Asp.NetCoreWebApi\\CAPIV3\\CAPIV3\\wwwroot\\Upload\\02.jpg",
+      "SourceId": "CAPIV3",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\DotNetAllModule\\Module-11-Asp.NetCoreWebApi\\CAPIV3\\CAPIV3\\wwwroot\\",
+      "BasePath": "_content/CAPIV3",
+      "RelativePath": "Upload/02.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\02.jpg"
+    }
+  ]
+}

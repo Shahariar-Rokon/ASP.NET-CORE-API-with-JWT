@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CAPIV3.props" />
+</Project>
