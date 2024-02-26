@@ -66,7 +66,7 @@ To use this project, follow these steps:
    - Now click the send button. This will authorize you through the JWT to the **GET** and will show some valid data.
    - Now it's time to post data. Head over to body section and select **form-data** tab. Now fill out the valuse as follows: **EmployeeName**, IsActive, JoinDate, ImageName, ImageFile and Experiences  **JSON** object **ImageFIle** which should be file 
      type. Make sure that the content type of all of them except **ImageFile** is application/json.
-   - For example Reservation should be like this
+   - For example Employee should be like this
      ![JWTData](https://github.com/Shahariar-Rokon/ASP.NET-CORE-API-with-JWT/assets/116648090/52bbe1d4-4c6c-4ba5-8bc0-4ecb483b9af7)
    - Also make sure Experiences has data structure like JSON array `[{"Title":"A","Duration":5}]`
    - Select an image file from your desktop and give any name for your image file. If all things filled correctly the **Postman** should look like below. Next step is to post. Select **POST** in the postman and click send.
